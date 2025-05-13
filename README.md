@@ -25,7 +25,7 @@ Accurate energy forecasting is essential for:
  
 ## 🔧 Tech Stack -
 
-- Python 🐍: Core language used for data processing, model training, and API development.
+- Python: Core language used for data processing, model training, and API development.
 
 - Scikit-learn: Used for building the MLP Regressor model to predict energy consumption.
 
