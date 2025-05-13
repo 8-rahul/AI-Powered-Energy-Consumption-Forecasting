@@ -23,7 +23,7 @@ Accurate energy forecasting is essential for:
 
 - Improving the efficiency of energy systems in smart cities and sustainable infrastructures
  
-## 🔧 Tech Stack
+## 🔧 Tech Stack -
 
 - Python 🐍: Core language used for data processing, model training, and API development.
 
@@ -75,7 +75,7 @@ jason
 ### Testing with Postman  
 ![Postman Test](Output_Images/API_tested_in_Postman.png)  
 
-## 💡 Key Learning Outcomes -
+## 💡 Learning Outcomes -
 - Built & trained a real-world regression model from scratch.
   
 - Developed a deployable API using Flask.
